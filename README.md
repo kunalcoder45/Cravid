@@ -90,8 +90,6 @@ If you're having issues getting the above steps to work, see the [Troubleshootin
 
 To learn more about React Native, take a look at the following resources:
 
----
-
 ## 📥 Download the App
 
 🔗 [Download APK Here](https://www.mediafire.com/file/ify0yzsrlysqr2g/Cravid.apk/file)
