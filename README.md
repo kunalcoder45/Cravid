@@ -90,8 +90,11 @@ If you're having issues getting the above steps to work, see the [Troubleshootin
 
 To learn more about React Native, take a look at the following resources:
 
-📥 Download the App
-🔗 Download APK Here(https://www.mediafire.com/file/ify0yzsrlysqr2g/Cravid.apk/file)
+---
+
+## 📥 Download the App
+
+🔗 [Download APK Here](https://www.mediafire.com/file/ify0yzsrlysqr2g/Cravid.apk/file)
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
