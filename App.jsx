@@ -48,7 +48,6 @@ const App = () => {
     
   ];
 
-
   // Handle share functionality with image path copying
   const handleShare = async (uri) => {
     try {
