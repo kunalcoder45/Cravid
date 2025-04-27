@@ -94,6 +94,10 @@ To learn more about React Native, take a look at the following resources:
 
 🔗 [Download APK Here](https://www.mediafire.com/file/ify0yzsrlysqr2g/Cravid.apk/file)
 
+OR 
+
+🔗 [Download APK Here](https://drive.google.com/file/d/18fJm2sUqYzPsvQYDsV1iDDkS2f3JLifH/view)
+
 ---
  
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
